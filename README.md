@@ -1,3 +1,3 @@
 # project-Demo
-this is my first repository.
-<br>Author</br> - <b>N KARTHIK MOHAN RAO</b>
+this is my first repository.<br>
+Author - <b>N KARTHIK MOHAN RAO</b>
